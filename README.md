@@ -1,4 +1,4 @@
-# Sentiment-Analysis-In-Conversations
+# sentiment-analysis-in-conversations
 This working protoype uses Naive Baye's Classifier and SVM (Support Vector Machine) Classifier to predict a given
 reply in a conversation as friendly/unfriendly. This is developed in Python.
 
